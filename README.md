@@ -4,10 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7301B&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=40&lines=Eat%2C+Sleep%2C+Code%2C+Repeat." alt="Typing animation"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7301B&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=40&lines=I+don't+always+write+bugs%2C+but+when+I+do...+I+blame+the+compiler+first." alt="Funny quote animation"/>
+</p>
+
+
+
+
+
+
+
 
 ### 🧠 About Me
 
-- 🎓 Full-time SEFactory bootcamp student
+- 🎓 Full-time SE Factory bootcamp student
 - 🔍 Focused on building backend-first, API-powered web apps
 - 🧱 Skilled in OOP, MVC, clean PHP architecture, MySQL, routing
 - 💬 Believer in readable code, purposeful logic, and asking “why” before “how”
